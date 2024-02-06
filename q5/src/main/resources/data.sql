@@ -1,0 +1,1 @@
+INSERT INTO `demo_data` (`id`, `value`) VALUES ('1', 'Hello World');
